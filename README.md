@@ -14,6 +14,11 @@ This project contains a function for dispatching packages to the correct stack i
   - **STANDARD:** Not bulky or heavy
   - **SPECIAL:** Bulky or heavy
   - **REJECTED:** Both bulky and heavy
+ 
+## Actual Test Ran
+
+<img width="674" height="345" alt="image" src="https://github.com/user-attachments/assets/5de4cc8a-d0c8-48bf-8ecf-a5dc3bdbf73f" />
+
 
 ## How to Run
 
